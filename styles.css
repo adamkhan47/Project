@@ -97,4 +97,12 @@ button {
     font-size: 1rem;
     border-color: rgb(240,240,240);
     border-style:solid;
+    transition:0.2s;
+    font-size:normal;
+}
+button:hover {
+    background:rgb(70,70,70);
+}
+button:active {
+    border-radius:0.5rem;
 }
