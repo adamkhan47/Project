@@ -90,7 +90,8 @@ button {
     font-size: 20;
     font-family: 'Arial', sans-serif;
     border-radius: 0.313rem;
-    background-color: palegoldenrod;
+    color: rgb(183, 121, 248);
+    background: rgb(41, 41, 41);
     width:auto;
     height:auto;
     font-size: 1rem;
