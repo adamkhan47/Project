@@ -4,5 +4,5 @@ Real Written Description
 
 ## Installation
 
-1. Install.
+1. Install by downloading source code.
 2. idk vro
